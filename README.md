@@ -1,4 +1,4 @@
-# Snake n Chillly
+# Snake n Chillly ![chilly](https://github.com/leifWoe/snake_n_chilly/blob/master/graphics/chilly.png)
 
 nokia like snake game 
 
